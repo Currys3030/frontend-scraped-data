@@ -1,3 +1,3 @@
 Quiz questions ​
 
-Explain the CSS Box Model. Read answer (Free) What happens when you type a URL into the browser and hits enter? Given some text on a web page, how many ways can you make the text disappear? How do you send data from a web page to a server without a page refresh? Read answer (Free)
+Difference between CSS padding and margin . Read answer (Free) Difference between promise and callback? Difference between event bubbling and capturing? Difference between callback and closure in JavaScript? What are the advantages of using preprocessors? e.g. Sass, Stylus, Less. Read answer (Free) What is event delegation? Read answer (Free)

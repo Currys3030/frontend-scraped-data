@@ -1,3 +1,3 @@
 JavaScript coding questions ​
 
-How do you make a function that takes a callback function fn and returns a function that calls fn on a timeout? Practice question (Free) Implement the outline view for a Google doc. Practice question (Paid) DFS on HTML nodes. Practice question (Paid) Implement throttle . Practice question (Paid) How do you make a function that only calls input function f every 50 milliseconds? Practice question (Paid) Given a timeline write the JavaScript to select all nodes within selection of timeline.
+Write a getElementsByClassName function. Practice question (Paid)
