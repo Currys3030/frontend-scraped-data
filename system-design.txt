@@ -1,0 +1,5 @@
+System design ​
+
+This round assesses your ability to design scalable and performant front end applications. Be prepared to discuss:
+
+Scalability : How your design handles increasing user load, data, and features. Modularity : Breaking down a large application into smaller, manageable components. Performance : Optimizing initial load, subsequent interactions, and data fetching. Reliability/Resilience : Handling errors, network issues, and ensuring a stable user experience. Maintainability : Writing clean, testable, and understandable code. Accessibility : Integrating accessibility best practices into the design. Trade-offs : Justifying your design choices and understanding the implications of different approaches (e.g., client-side vs. server-side rendering, specific data structures, caching strategies).

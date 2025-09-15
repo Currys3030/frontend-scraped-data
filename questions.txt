@@ -1,0 +1,19 @@
+Questions ​
+
+Questions sourced from the web and the GreatFrontEnd community.
+
+Quiz questions ​
+
+What is the CSS box model? Read answer (Free) What is a JavaScript closure? Read answer (Free) What happens when you type URL into a browser and hit enter?
+
+JavaScript coding questions ​
+
+Implement Array.prototype functions like map , reduce , filter , sort . Practice questions Given an object and a filter function, write a function that recursively filters the object, returning only values which return true when called with the filter function (like Array.prototype.filter but for objects). Implement a function getElementsByStyle(property, value) that returns all elements in the DOM that match that style. E.g. getElementsByStyle("color", "#fff") will return all elements in the DOM with white text. Practice question (Paid) Promisify a function.
+
+User interface coding questions ​
+
+Implement a data table from an array of objects using HTML/CSS and JavaScript with searching and sorting Practice question (Paid) Implement Material UI Chips with auto-suggest. When sending an e-mail, auto-suggest people and convert them into a chip with their avatar on the right Implement a Like button ( Source ) Practice question (Paid) Given a JSON object generate a file directory UI Practice question (Free) Code a paginated widget of addresses. Imagine you are a seller with a list of address you ship to an need to view them 5 address per page, with the possibility to go previous and next. Source Implement a search bar using HTML, CSS and JavaScript Read answer (Free) Implement a star rating widget Practice question (Free) Implement tic-tac-toe Practice question (Paid) Recreate an adaptive layout with flexbox. Ensure accessibility Implement a chess board with movable pieces How do you render text on a banner image? Render a directory tree given a nested JSON object
+
+System design questions ​
+
+Design a restaurant listing application where user can make orders and customize their orders by adding additional stuffs like toppings, salads etc. Source Design an accordion component. Practice question (Paid)

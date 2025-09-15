@@ -1,0 +1,7 @@
+Official guides ​
+
+For more detailed information directly from Amazon, refer to Amazon's official interview preparation guides for:
+
+Front End Engineers Front End Engineer Interview Prep SDE Interview Prep
+
+Source: Glassdoor Amazon Front End Engineer Interview Questions
