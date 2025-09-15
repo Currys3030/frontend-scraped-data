@@ -1,3 +1,3 @@
 User interface coding questions ​
 
-Implement a simple photo ordering tool with vanilla JS and no libraries.
+Build an image gallery using JavaScript, HTML, CSS. Read answer (Free) Forming words from mobile keypad. Build a UI that fetches data from a weather API that is matching a design spec. Build a UI that matches a design spec of one of the pages on the Dropbox homepage.
