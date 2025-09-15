@@ -1,3 +1,5 @@
 User interface coding questions ​
 
-Create a tooltip component. Create a cross browser Linkedin top navigation bar.
+Implement an autocomplete. Read answer (Free)
+
+Source: Glassdoor Lyft Frontend Engineer Interview Questions
