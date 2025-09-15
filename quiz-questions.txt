@@ -1,3 +1,5 @@
 Quiz questions ​
 
-Difference between localStorage and cookies. Read answer (Free)
+What is the difference between Array.prototype.map and Array.prototype.forEach ? Read answer (Free)
+
+Source: Glassdoor Twitter Front End Developer Interview Questions
