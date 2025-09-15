@@ -1,3 +1,5 @@
 User interface coding questions ​
 
-Build an image gallery using JavaScript, HTML, CSS. Read answer (Free) Forming words from mobile keypad. Build a UI that fetches data from a weather API that is matching a design spec. Build a UI that matches a design spec of one of the pages on the Dropbox homepage.
+Design a slider component. Design a Tic-Tac-Toe game/design an algorithm for Tic-Tac-Toe game. Practice question (Paid) Implement nested checkboxes (when the parent is checked, children are checked and vice versa. Use <input type="checkbox"> ). Similar to Indeterminate checkboxes . Design a webpage which can auto load new posts when you reach the bottom of the page by using JavaScript. You may use AJAX and JavaScript event listeners. Write a UI using HTML, CSS, JavaScript that allows uses to enter the number of rows and columns in text input fields within a form and renders a table. Practice question (Paid) Example: Number of rows: 4, Number of columns: 5, "Submit" button. Clicking on the "Submit" button will show the following table (ignore the styling):
+
+1 8 9 16 17 2 7 10 15 18 3 6 11 14 19 4 5 12 13 20

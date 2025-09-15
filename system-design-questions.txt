@@ -1,3 +1,3 @@
 System design questions ​
 
-Design Google calendar.
+Design emoji autocomplete. Read answer (Free) Design JS Bin. How would you create a Google Analytics SDK used by webpages?

@@ -1,5 +1,5 @@
 Algorithm ​
 
-You want to log the number of hits to a site. Implement two functions, log_hit() which gets called when a hit is registered, and get_hits_in_last_five_minutes() which returns the total number of hits in the last five minutes.
+Minesweeper problem. Write a function reveal() that outputs the number of tiles shown when a user clicks on a tile. Each tile shows the number of bombs as its neighbor. If the user click on a tile that is a bomb, the game is over. If that tile is 0, reveal all its neighbors. You are given four numbers (type int), and have four basic math operators at your disposal (+, -, x, /). Given arbitrary ways to group the numbers and using any of the operators, determine if you can make the number 24 from the four numbers. The numbers must be processed in the order they appear. Find k-nearest points.
 
-Source: Glassdoor Dropbox Front End Developer Interview Questions , Glassdoor Dropbox Web Developer Interview Questions
+Source: Glassdoor Google Front End Software Engineer Interview Questions , Google | Front End engineer
