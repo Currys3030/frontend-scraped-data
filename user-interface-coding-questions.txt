@@ -1,5 +1,3 @@
 User interface coding questions ​
 
-Implement an autocomplete. Read answer (Free)
-
-Source: Glassdoor Lyft Frontend Engineer Interview Questions
+Create a notification interface like Microsoft teams Image slider implementation.

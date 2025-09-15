@@ -1,3 +1,3 @@
 JavaScript coding questions ​
 
-Implement Promise.all . Practice question (Free) Write the logic for minesweeper using vanilla JS.
+Tic-tac-toe implementation using vanilla JavaScript, HTML and CSS. Practice question (Paid) Create a chat interface like Microsoft teams. Use OOP to implement a Chess game.

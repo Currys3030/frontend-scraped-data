@@ -1,3 +1,5 @@
 System design questions ​
 
-Design emoji autocomplete. Read answer (Free) Design JS Bin. How would you create a Google Analytics SDK used by webpages?
+Design an email client like Microsoft Outlook. Read answer (Paid)
+
+Source: Glassdoor Microsoft Front End Developer Interview Questions
