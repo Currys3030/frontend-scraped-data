@@ -1,3 +1,5 @@
 Quiz questions ​
 
-What is a prototype? Read answer (Free) What is a closure? Read answer (Free) What is the difference between let , const , and var ? Read answer (Free) What is DOM?
+What is the event loop? Read answer (Free) What is a closure? Read answer (Free) Positioning in CSS. Read answer (Free)
+
+Source: Glassdoor Salesforce UI Developer Interview Questions

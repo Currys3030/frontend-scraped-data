@@ -1,0 +1,3 @@
+Coding ​
+
+Flatten a nested array. Practice question (Free)
