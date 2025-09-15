@@ -1,3 +1,5 @@
 Algorithm ​
 
-Airbnb does have rounds evaluating your Computer Science fundamentals by asking LeetCode-style questions. Do be prepared for them.
+Given an array, return an array where the each value is the product of the next two items: E.g. [3, 4, 5] -> [20, 15, 12]
+
+Source: Glassdoor Apple Front End Developer Interview Questions

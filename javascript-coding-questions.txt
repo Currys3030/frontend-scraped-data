@@ -1,3 +1,3 @@
 JavaScript coding questions ​
 
-Implement Array.prototype functions like map , reduce , filter , sort . Practice questions Given an object and a filter function, write a function that recursively filters the object, returning only values which return true when called with the filter function (like Array.prototype.filter but for objects). Implement a function getElementsByStyle(property, value) that returns all elements in the DOM that match that style. E.g. getElementsByStyle("color", "#fff") will return all elements in the DOM with white text. Practice question (Paid) Promisify a function.
+Implement Array.prototype methods ( flat , map , reduce , concat ) by yourself using JavaScript. Practice questions How can you execute an array of promise in sequence?
