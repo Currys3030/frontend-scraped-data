@@ -1,3 +1,3 @@
 User interface coding questions ​
 
-Create a notification interface like Microsoft teams Image slider implementation.
+Implement a dropdown component. Read answer (Paid)

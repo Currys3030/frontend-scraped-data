@@ -1,5 +1,3 @@
 Quiz questions ​
 
-What is the event loop? Read answer (Free) What is a closure? Read answer (Free) Positioning in CSS. Read answer (Free)
-
-Source: Glassdoor Salesforce UI Developer Interview Questions
+Difference between localStorage and cookies. Read answer (Free)
